@@ -1,6 +1,6 @@
 # Projeto integração de react + sass
 
-Nesse projeto realizei a criação de um portfolio experimental para estudar a integração do REACT.js junto ao pré-processador SASS com fins de aprendizado.
+Nesse projeto realizei a criação de um portfolio simples e experimental para estudar a integração do REACT.js junto ao pré-processador SASS com fins de aprendizado.
 
 ## Conhecimentos necessários
 
