@@ -17,3 +17,6 @@ Nesse projeto realizei a criação de um portfolio simples e experimental para e
 - ViteJS
   - Conhecimento básico da utilização do Vite para criação de código-fonte em ESM nativo.
 
+## Imagem do projeto
+
+![readme-react](https://user-images.githubusercontent.com/66692202/203422278-3708537c-85b1-4781-868d-3701b4ca4a56.jpg)
