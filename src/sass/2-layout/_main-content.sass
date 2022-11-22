@@ -1,0 +1,36 @@
+@use "../1-base/_variables"
+@use "layout-mixins"
+
+
+#main-content
+    background-color: variables.$card-color
+    flex: 2 1 0
+    border-radius: variables.$container-border-radius
+    padding: 3rem
+    box-shadow: -1rem 0 3rem #000
+
+    section
+        display: flex
+        flex-direction: column
+
+        h2
+            color: variables.$text-white
+            font-size: 2.2rem
+            margin-bottom: 1.3rem
+            @include layout-mixins.center
+            justify-content: start
+            gap: 1rem
+
+            &:after
+                @include layout-mixins.gradient-border
+
+        p
+            color: #ddd
+            margin-bottom: 1rem
+            line-height: 1.4rem
+
+        .button
+            align-self: start
+
+
+
